@@ -19,8 +19,7 @@ Jhonatan Salles - RM554190
 
 ## Desenho do Circuito Completo
 
-![Diagrama do Circuito](https://prnt.sc/_0E81f6cMz4O)
-*Substitua a URL da imagem com o link do diagrama do seu circuito.*
+[![Circuito pronto](https://prnt.sc/_0E81f6cMz4O)
 
 ## Descrição do Papel de Cada Sensor no Sistema
 
